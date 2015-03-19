@@ -1,0 +1,6 @@
+.container{ max-width: 960px}
+.hdr{ height: 40px;}
+.contribute{ display: block; width:80px; ; background-color: #ddd; padding: 4px 10px; margin-top: 6px; }
+.banner{ height: 160px; background-color: #613b78; 
+	     text-align: center; color: #FFF; font-size: 30px; padding-top:50px; }
+.ftr{ height:40px; background-color: #613b78; text-align: center; color: #FFF; padding-top: 10px;}
